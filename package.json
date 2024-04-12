@@ -1,0 +1,15 @@
+{
+  "name": "aws-tutorial",
+  "version": "1.0.0",
+  "description": "Only for learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sumit",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.554.0",
+    "@aws-sdk/s3-request-presigner": "^3.554.0"
+  }
+}
